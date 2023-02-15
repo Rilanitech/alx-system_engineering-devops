@@ -1,2 +1,2 @@
 #!/bin/bashi
-printf "%x\n" $DE
+tr 'A-Za-z' 'NA-ZA-Mn-za-m' 
