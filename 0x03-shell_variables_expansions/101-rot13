@@ -1,2 +1,2 @@
 #!/bin/bashi
-tr 'A-Za-z' 'NA-ZA-Mn-za-m' 
+tr 'A-Za-z' 'N-ZA-Mn-za-m' 
